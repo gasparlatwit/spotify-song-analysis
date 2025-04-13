@@ -1,2 +1,2 @@
 # spotify-song-analysis
-pandas data analysis of kaggle dataset containing information on top and bottom songs on Spotify
+Analyzing over 30000 songs pulled from the spotify api using machine learning and visualization techniques in python. This was done with the intent of discovering new ways to improve the way songs are reccomended to users, and for a general analysis.
